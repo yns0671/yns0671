@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Yunus 👋
+Electrical and Electronics Engineering Student at METU
 
-<!--
-**yns0671/yns0671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Interests**:
+- Power systems & power electronics  
+- Control systems  
 
-Here are some ideas to get you started:
+🌱 **Currently Learning**:
+- Power systems and electric machines  
+- Feedback control systems  
+- Neural networks and evolutionary algorithms  
+- Fuzzy logic and Bayesian networks  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Skills**:
+- MATLAB, Simulink
+- Python, NumPy, PyQt6, Pandas, Matplotlib, TensorFlow
+*Note: Beginner in Simulink and Python libraries, actively learning!*
+  
+📫 **Reach Me**:
+- [yunustosun7106@gmail.com](mailto:yunustosun7106@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/yunus-tosun-b71a371b3/)  
+
+🤝 I’m excited to collaborate on power engineering, control systems, or AI projects. Let’s connect!
+
