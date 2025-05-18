@@ -14,6 +14,7 @@ Electrical and Electronics Engineering Student at METU
 🛠️ **Skills**:
 - MATLAB, Simulink
 - Python, NumPy, PyQt6, Pandas, Matplotlib, TensorFlow
+
 *Note: Beginner in Simulink and Python libraries, actively learning!*
   
 📫 **Reach Me**:
