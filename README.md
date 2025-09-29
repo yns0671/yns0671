@@ -16,7 +16,7 @@ Specializing in Power Engineering
 🛠️ **Skills**:
 - MATLAB, Simulink
 - Python, NumPy, PyQt6, Pandas, Matplotlib, TensorFlow
-- Eplan Electric P8
+- EPLAN Electric P8
 - Tia Portal
 
 *Note: Beginner in Simulink and Python libraries, actively learning!*
