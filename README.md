@@ -1,19 +1,23 @@
 ## Hi, I'm Yunus 👋
 Electrical and Electronics Engineering Student at METU
+Specializing in Power Engineering
 
 🎯 **Interests**:
 - Power systems & power electronics  
 - Control systems  
 
 🌱 **Currently Learning**:
-- Power systems and electric machines  
-- Feedback control systems  
-- Neural networks and evolutionary algorithms  
-- Fuzzy logic and Bayesian networks  
+- Power systems  
+- Power electronics 
+- Numerical methods and optimization
+- Tia Portal
+- Eplan Electric P8 
 
 🛠️ **Skills**:
 - MATLAB, Simulink
 - Python, NumPy, PyQt6, Pandas, Matplotlib, TensorFlow
+- Eplan Electric P8
+- Tia Portal
 
 *Note: Beginner in Simulink and Python libraries, actively learning!*
   
